@@ -1,5 +1,5 @@
 # EasyTrage
-### Exchange Arbitrage bot/helper written in MERN by Bear-Gold
+### Exchange Arbitrage bot/helper written in MERN
 
 ## About
 
